@@ -1,12 +1,14 @@
-import React from 'react'
-import { Link, useParams, useNavigate, Navigate } from 'react-router-dom'
+import React, { useContext } from 'react'
+import { Link, useNavigate, useParams } from 'react-router-dom'
 import {BsFillTrashFill} from 'react-icons/bs'
-const PostPage = ({posts, handleDelete}) => {
+import  DataProvider from '../context/DataContext';
+const PostPage = () => {
   // window.location.pathname = '/post/2'
+  const {posts, handleDelete} = useContext(DataProvider)
   const {id} = useParams();
   const post = posts.find(post=>(post.id).toString()===id)
-  console.log(window.location.pathname)
   const navigate = useNavigate()
+
 
   return (
     <div>
@@ -26,7 +28,7 @@ const PostPage = ({posts, handleDelete}) => {
           <>
           <h2 className=' font-bold text-xl text-center'>Page not Found</h2>
           <p className='postdateTime text-sm leading-10'>Well that's disappointing</p>
-          <p className='postBody w-[75%] leading-4 font-medium font-sans '><Link to='/'/>Visit to the home page</p>
+          <p className='postBody w-[75%] leading-4 font-medium font-sans '><Link to='/'>Visit to the home page</Link></p>
           </>
         }
       </article>

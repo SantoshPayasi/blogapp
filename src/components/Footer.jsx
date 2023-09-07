@@ -1,6 +1,8 @@
 import React from 'react'
+import DataProvider from '../context/DataContext'
 
-const Footer = ({posts}) => {
+const Footer = () => {
+
   const currentyear = new Date()
   return (
     <div className='h-10 text-center bg-blue-200 font-semibold'>
