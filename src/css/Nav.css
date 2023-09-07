@@ -1,0 +1,20 @@
+.navMenu{
+    color: white;
+    font-weight: 600;
+    transition: all 1s ease-in-out;
+    padding: 1px 3px;
+    height:25px;
+    border-radius: 5px ;
+}
+
+.navMenu:hover{
+    background-color: white;
+    color: black;
+}
+
+.App{
+   height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,0 +1,46 @@
+{
+  "postData": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "dateTime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus quam ex, at varius metus sagittis in. Nunc eget tortor ac nibh commodo rutrum ac ut orci. Aenean ut maximus sapien. Pellentesque eget turpis ipsum. Mauris quis sapien tortor. Pellentesque semper et velit id aliquam. Praesent vestibulum ligula eget metus tincidunt venenatis. Sed non gravida mauris. Vivamus venenatis fringilla lorem, in semper odio ornare id. Donec et justo ut turpis suscipit venenatis. Donec pretium mattis nulla quis hendrerit."
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "dateTime": "July 02, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus quam ex, at varius metus sagittis in. Nunc eget tortor ac nibh commodo rutrum ac ut orci. Aenean ut maximus sapien. Pellentesque eget turpis ipsum. Mauris quis sapien tortor. Pellentesque semper et velit id aliquam. Praesent vestibulum ligula eget metus tincidunt venenatis. Sed non gravida mauris. Vivamus venenatis fringilla lorem, in semper odio ornare id. Donec et justo ut turpis suscipit venenatis. Donec pretium mattis nulla quis hendrerit. "
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "dateTime": "July 03, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus quam ex, at varius metus sagittis in. Nunc eget tortor ac nibh commodo rutrum ac ut orci.Aenean ut maximus sapien. Pellentesque eget turpis ipsum. Mauris quis sapien tortor. Pellentesque semper et velit id aliquam. Praesent vestibulum ligula eget metus tincidunt venenatis. Sed non gravida mauris. Vivamus venenatis fringilla lorem, in semper odio ornare id. Donec et justo ut turpis suscipit venenatis. Donec pretium mattis nulla quis hendrerit. "
+    },
+    {
+      "id": 4,
+      "title": "My 4th Post",
+      "dateTime": "July 04, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur Aenean ut maximus sapien. Pellentesque eget turpis ipsum. Mauris quis sapien tortor. Pellentesque semper et velit id aliquam. Praesent vestibulum ligula eget metus tincidunt venenatis. Sed non gravida mauris. Vivamus venenatis fringilla lorem, in semper odio ornare id. Donec et justo ut turpis suscipit venenatis. Donec pretium mattis nulla quis hendrerit. adipiscing elit. Mauris maximus quam ex, at varius metus sagittis in. Nunc eget tortor ac nibh commodo rutrum ac ut orci. "
+    },
+    {
+      "id": 5,
+      "dateTime": "September 05, 2023 11:41:45 PM",
+      "title": "My 5th Post what you think about it am I right or not",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus quam ex, at varius metus sagittis in. Nunc eget tortor ac nibh commodo rutrum ac ut orci. Aenean ut maximus sapien. Pellentesque eget turpis ipsum. Mauris quis sapien tortor. Pellentesque semper et velit id aliquam. Praesent vestibulum ligula eget metus tincidunt venenatis. Sed non gravida mauris. Vivamus venenatis fringilla lorem, in semper odio ornare id. Donec et justo ut turpis suscipit venenatis. Donec pretium mattis nulla quis hendrerit. "
+    },
+    {
+      "id": 6,
+      "dateTime": "September 05, 2023 11:55:19 PM",
+      "title": "Tis is my 8th post from my side its ok na",
+      "body": "What are you thinking about it Am I right but it is not true I am wrong"
+    },
+    {
+      "id": 7,
+      "title": "This is again a new Post",
+      "dateTime": "September 05, 2023 11:42:10 PM",
+      "body": "What are you thinking about it Am I right with you and me"
+    }
+  ]
+}
